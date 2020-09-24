@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi 👋, I'm Pradeep
+
+I'm a Director Of Engineering at [Lendingkart](https://www.lendingkart.com/) / Bangalore, India 🇮🇳 and working as a Tech & Software Craftsman to help scale business using technology.
+
+In my spare time I like to code 👨‍💻 in various languages including Java, Clojure/ClojureScript ❤️, Python, Javascript, Bash and a few other. 
+I love open source projects and clean, functional code. 
+
+Beside coding 👨‍💻, I'm love traveling 🌄, football ⚽, listening to music 🎶 and movies 🎥. 
+
+You can find me at [](https://pradeepbishnoi.github.io) and on [Twitter](https://twitter.com/pradeepbishnoi)
+
+Cheers!
 
 <!--
 **pradeepbishnoi/pradeepbishnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
