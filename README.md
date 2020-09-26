@@ -5,7 +5,7 @@ I'm a Director Of Engineering at [Lendingkart](https://www.lendingkart.com/) / B
 In my spare time I like to code 👨‍💻 in various languages including Java, Clojure/ClojureScript ❤️, Python, Javascript, Bash and a few other. 
 I love open source projects and clean, functional code. 
 
-Beside coding 👨‍💻, I'm love traveling 🌄, football ⚽, listening to music 🎶 and movies 🎥. 
+Beside coding 👨‍💻, I love reading books 📚, traveling 🌄, football ⚽, listening to music 🎶 and movies 🎥. 
 
 You can find me at [](https://pradeepbishnoi.github.io) and on [Twitter](https://twitter.com/pradeepbishnoi)
 
